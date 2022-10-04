@@ -1,0 +1,42 @@
+
+  #resultado{
+    display:block;
+    text-align: center;
+    font-size: 180px;
+    margin-top: 550px;
+    margin-bottom: 80px;
+    width:1200px;
+    height: 900px;
+    line-height: 100px;
+    background-color:black;
+    color: beige;
+    
+    overflow-y: scroll;
+  }
+
+  body{
+
+
+    background-color: black;
+  }
+
+  button{
+
+    font-size: 100px;
+    border-radius: 300px;
+    width: 300px;
+    height: 300px;
+  }
+
+  .operador{
+
+
+    background-color: chocolate;
+  }
+
+.num{
+
+
+  background-color: darkgrey;
+}
+
